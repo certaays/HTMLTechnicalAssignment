@@ -1,9 +1,9 @@
 # HTMLTechnicalAssignment
 
-# Nama : Certa Yustitia
+#### Nama : Certa Yustitia
 
-# Kelompok 9 - NUS
+#### Kelompok 9 - NUS
 
-# Mentor Pembimbing : Samuel Zega
+#### Mentor Pembimbing : Samuel Zega
 
-# Netlify : https://htmltechassignment.netlify.app/ 
+#### Netlify : https://htmltechassignment.netlify.app/ 
